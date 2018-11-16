@@ -1,0 +1,4 @@
+﻿  C++_Soket-recieve-tool.cpp
+  Unknown compiler version - please run the configure tests and report the results
+f:\code\c++\c++_soket-recieve-tool\c++_soket-recieve-tool\c++_soket-recieve-tool\c++_soket-recieve-tool.cpp(11): warning C4326: “main”的返回类型应为“int”而非“void”
+  C++_Soket-recieve-tool.vcxproj -> F:\code\C++\C++_Soket-recieve-tool\C++_Soket-recieve-tool\Debug\C++_Soket-recieve-tool.exe
